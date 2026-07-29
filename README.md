@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Had to hotfix this
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+File for whatever reason, checking to see what happens when there are forward and backward changes
 
 ## Available Scripts
 
