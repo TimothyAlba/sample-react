@@ -1,3 +1,5 @@
 email: 1352@email.com
 message: Testing test config
 description: Another configuration item
+log: INFO
+fail: FAST
