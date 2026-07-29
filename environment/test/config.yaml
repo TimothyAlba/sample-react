@@ -1,0 +1,3 @@
+email: test123@notmyemal.com
+message: This is just an email config for the test environment
+description: Meant to show how PRs can demonstrate config change requirements
