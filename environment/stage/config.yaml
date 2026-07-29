@@ -1,0 +1,3 @@
+email: stage123@notmyemal.com
+message: This is just an email config for the stage environment
+description: Stage now has the valid configuration for this PR
