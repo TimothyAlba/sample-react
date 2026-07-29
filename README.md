@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Updated
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Testing changes to the core shared files
 
 ## Available Scripts
 
