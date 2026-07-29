@@ -1,6 +1,6 @@
 # Going to make some more edits
 
-To just see how things differ
+This is primarily trying to see if I can reverse the order to maintain tag history?
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
